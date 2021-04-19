@@ -2,7 +2,7 @@ num = int(input())
 base = int(input())
 
 s = ''
-dig = 7
+dig = 4
 while(dig>=0):
     mul = base**dig
     c=0
