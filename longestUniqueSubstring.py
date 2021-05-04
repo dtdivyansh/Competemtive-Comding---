@@ -14,7 +14,4 @@ for i in s:
         c=0
         dic = {}
         
-if(len(m)>=3):
-    print(m)
-else:
-    print(-1)
+print(m)
